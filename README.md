@@ -1,16 +1,13 @@
 # responsive_screen
 
-A new Flutter project.
+Widget to responsive screen
 
-## Getting Started
+<h1 align="center"> # How use this widget</h1>
 
-This project is a starting point for a Flutter application.
+<h3> 1- Open to main.dart archive </h3>
 
-A few resources to get you started if this is your first Flutter project:
+<h3> 2- Copy All Page</h3>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3> 2- Clone on paste Responsive</h3>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Success!! :grimacing:	
